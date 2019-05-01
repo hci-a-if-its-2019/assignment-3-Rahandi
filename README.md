@@ -1,15 +1,8 @@
 # Usability Evaluation and Prototyping (again)
-> Usability Evaluation in this assignment is to evaluate your high-fidelity interactive-prototype with two participants:
-> the participant from the previous Contextual Inquiry (CI) 
-> and an additional novice-participant with different demographics if possible.
-> Respectively, revise your prototype as an attempt to fix any problems found in this Usability Evaluation.
 
 ## Operating the Prototype
-> Record a video (screen-recording is preferred) while you operating your prototype.
-> Present the ideal case on how to interact with the prototype from the beginning to the end.
-> Upload the video on any video-sharing website (e.g., YouTube), then attach the video link on this report.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ttSbEDzVXSw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/embed/ttSbEDzVXSw
 
 ---
 

@@ -46,7 +46,16 @@ https://www.youtube.com/embed/ttSbEDzVXSw
 1. her: oke
 
 #### b. Transcript with Participant 2
-
+1. me: coba buka manga naruto
+1. him: (looking at homepage screen) nah ini (clicking on naruto link) dah
+1. me: terus coba follow
+1. him: (searching the follow button, clicking on follow button) kok tempat tombolnya jelek ya
+1. me: menurutmu bagusnya gimana?
+1. him: seharusnya  digabungin sama tombol share aja biar ga keliatan sendirian
+1. me: hmmm ok, terus sekarang coba unfollow manganya
+1. him: (clicking unfollow button) dah
+1. me: oksip, terimakasih
+1. him: sama-sama
 
 ### 4. Feedback and Incidence Analysis
 
@@ -61,10 +70,10 @@ https://www.youtube.com/embed/ttSbEDzVXSw
 #### OBSERVATION 2
 ![Prototype Screen 2](src/2.PNG)
 
- - **Reference**: Participant 1 (8)
+ - **Reference**: Participant 1 (8), Participant 2 (4)
  - **Feedback**: negative
  - **Incidence**: 
- - **Reason**: the 'follow' button position is not strategic enough for user to notice it
+ - **Reason**: (participant 1) the 'follow' button position is not strategic enough for user to notice it, (participant 2) the 'follow' button seems lonely
  - **Resolution**: move the 'follow' button to more strategic place and put some text over it.
  
 #### OBSERVATION 3

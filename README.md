@@ -26,46 +26,46 @@ https://www.youtube.com/embed/ttSbEDzVXSw
 3. Unfollow naruto manga
 
 ### 3. Transcript
-> Provide a summary of what the participant did and said, and what you did and said.
-> If at some points you have to help the participants, because they cannot figure out what to do,
-> that scene must be included in the transcript.
-> It is not necessary to write down every word the participant said,
-> just what is interesting and useful.
-> Ensure to write down all the actions on the device, whether correct or wrong.
-> Remember to supplement the transcript with time-codes or line-numbers.
 
 #### a. Transcript with Participant 1
- 1. **You**: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- 1. **Participant**: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
- 1. **You**: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
- 1. **Participant**: The Quick Brown Fox Jumps Over The Lazy Dog.
+1. me: ini prototype buat mengatasi masalah-masalah yang kemarin
+1. her: oke
+1. me: hal yang dilakukan masih sama kaya kemarin
+1. her: oke
+1. me: pertama, coba buka manga naruto
+1. her: hmmmm..... (she clicked on naruto manga on the homepage)
+1. me: okesip, terus coba follow manga naruto
+1. her: (she clicked on follow button) tombol follownya lebih bagus daripada yang kemarin, tapi sepertinya tombol follow seharusnya ga disana, aku ga bakal ngerti ada fungsi buat follow kalau ga kamu omongin buat ngefollow manga
+1. me: terus bagusnya gimana?
+1. her: harusnya ada keterangan "follow this manga" terus dibawahnya baru ada tombol follow dan peletakannya yang lebih strategis lagi
+1. me: okok
+1. her: terus ngapain lagi?
+1. me: terus coba unfollow manga naruto
+1. her: (she clicked on unfollow button) penambahan dan pengurangan jumlah follower berfungsi, ga kayak kemaren, kalau kemarin kan di unfollow tapi jumlah followernya tetep
+1. me: yawes, selesai, makasih ya
+1. her: oke
 
 #### b. Transcript with Participant 2
- - **00:01** 👨‍🔬 You: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- - **00:10** 👨‍💻 Participant: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
- - **00:17** 👨‍🔬 You: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
- - **00:25** 👨‍💻 Participant: The Quick Brown Fox Jumps Over The Lazy Dog.
+
 
 ### 4. Feedback and Incidence Analysis
-> Record your observations per prototype screen followed by reference, feedback, incidence, reason, and resolution.
 
 #### OBSERVATION 1
 ![Prototype Screen 1](src/1.PNG)
 
- - **Reference**: Provide line-number(s) or time-code(s) referred by feedback/incidence observed on the screen.
- - **Feedback**: Provide feedback (positive or negative) given by the participants, if any.
- - **Incidence**: Critical incidences (breakdowns or problems encountered by the participants) and/or mistakes committed by the participants, if any.
- - **Reason**: Explain the reason for the breakdowns or the negative feedback observed on the screen.
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 1`.
+ - **Reference**: 
+ - **Feedback**: 
+ - **Incidence**: 
+ - **Resolution**: 
  
 #### OBSERVATION 2
 ![Prototype Screen 2](src/2.PNG)
 
- - **Reference**: 
- - **Feedback**: 
+ - **Reference**: Participant 1 (8)
+ - **Feedback**: negative
  - **Incidence**: 
- - **Reason**: 
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 2`.
+ - **Reason**: the 'follow' button position is not strategic enough for user to notice it
+ - **Resolution**: move the 'follow' button to more strategic place and put some text over it.
  
 #### OBSERVATION 3
 ![Prototype Screen 3](src/3.PNG)
@@ -74,7 +74,7 @@ https://www.youtube.com/embed/ttSbEDzVXSw
  - **Feedback**: 
  - **Incidence**: 
  - **Reason**: 
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 3`.
+ - **Resolution**: 
 
 ## Part B: Prototyping (again)
 > Next, you will need to modify your prototype 
